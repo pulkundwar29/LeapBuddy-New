@@ -2,9 +2,9 @@
 
 This is a Retrieval-Augmented Generation (RAG) based Chat Assistant, which uses Google Gemini as LLM and Embeddings, NeonDB as chat storage, AWS S3 as file storage, Pinecone as Vector Database and Next.JS framework.
 
-![LeapBuddy](LeapBuddy.png)
+![LeapBuddy](LeapBuddyLP.png)
 
-![Chat Page](chat.png)
+![Chat Page](LeapBuddyLP1.png)
 
 
 
